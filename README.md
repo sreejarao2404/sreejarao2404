@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on masters course
-- 🌱 I’m currently learning applied computer science
+- 🔭 I recently completed my masters and looking for data analyst job
+- 🌱 I completed my masters in applied computer science
 - 👯 I’m looking to collaborate on ...gaining knowledge
 - 🤔 I’m looking for help with ...technologies
 - 💬 Ask me about me
-- 📫 How to reach me: s561636@nwmissouri.edu
+- 📫 How to reach me: sreejar2424@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...i am crazy
 
